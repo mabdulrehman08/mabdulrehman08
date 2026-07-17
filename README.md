@@ -1,23 +1,18 @@
-Hi there 👋, my name is Bobby Galli
-youtube channel link medium profile link discord server link instagram profile link twitter profile link spotify profile link
+# 💫 About Me:
+i am working on mataining tempersture in the test tube using an ardino or smth his repo automates crystallization screening on a Tecan Freedom EVO liquid-handling robot. It has two layers: a hardware control layer (lh_engine/) that exposes the robot's serial protocol as a REST API with a CSV-backed state store and a hardware-free simulator, and a research orchestration layer (the top-level scripts) that plans and executes crystallization experiments — anti-solvent addition, cocrystallization, and solubility screening — across a 96-tube rack, while a RoMa-mounted camera images each tube over time and logs every transfer and image to timestamped JSON files for downstream analysis.
 
-🙋‍♂️ About me
-profile view count
 
-I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdultheexplorer?igsh=MWZ6MzRwZ2NoYTFuYg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abdulrehman-419486292/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@abdultheexplorer8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notabdulbuilds) 
 
-🔭 I'm currently working on
-bugsplat slingshot bugsplat slingshot
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mabdulrehman08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mabdulrehman08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mabdulrehman08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 I’m currently learning
-chinese flag spanish flag
+---
+[![](https://komarev.com/ghpvc/?username=mabdulrehman08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔨 I've contributed to
-           
-
-✍️ I've written about
-                
-
-💸 How to support me
-bitcoin address
-heyehey 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
