@@ -1,16 +1,22 @@
-## Hi there 👋
-I am abdul, personally your ai spoeci
-<!--
-**mabdulrehman08/mabdulrehman08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, my name is Bobby Galli
+youtube channel link medium profile link discord server link instagram profile link twitter profile link spotify profile link
 
-Here are some ideas to get you started:
+🙋‍♂️ About me
+profile view count
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
+
+🔭 I'm currently working on
+bugsplat slingshot bugsplat slingshot
+
+🌱 I’m currently learning
+chinese flag spanish flag
+
+🔨 I've contributed to
+           
+
+✍️ I've written about
+                
+
+💸 How to support me
+bitcoin address
