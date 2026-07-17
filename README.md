@@ -57,7 +57,7 @@ Currently working on an arm-handling robot for automated chemistry research. It 
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=mabdulrehman08&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=mabdulrehman08&label=Profile+views&color=a78bfa&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
