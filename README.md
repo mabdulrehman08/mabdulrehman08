@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Abdulrehman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20robots%2C%20AI%20tools%2C%20and%20a%20few%20things%20in%20orbit&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Building%20robots%2C%20AI%20tools%2C%20and%20a%20few%20things%20in%20orbit&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://mabdulrehman08.github.io/mabdulrehman08/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Robotics+%2B+AI+%2B+Full-Stack;Currently%3A+arm-handling+robot+for+crystallization+research;Click+below+to+fly+through+my+projects+%F0%9F%9A%80" alt="Typing SVG" />
